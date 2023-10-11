@@ -422,7 +422,8 @@ h2 {
 }
 
 .pricing__item--not::before {
-    background-image: url("../img/Twitter.svg");/*opravit obrázok*/
+    background-image: url("../img/close.png");
+    background-size: 100%;
 
 }
 
